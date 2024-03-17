@@ -1,5 +1,5 @@
 # Project00
-Este é o Projeto 01: Calculadora em JavaScript, HTML e CSS.
+Este é o Projeto 00: Calculadora em JavaScript, HTML e CSS.
 
 A calculadora foi construída utilizando HTML para a estrutura básica da página, CSS para o estilo e JavaScript para as funcionalidades.
 
